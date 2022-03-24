@@ -1,4 +1,4 @@
 - 👋 Hi, I’m heora
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning JavaScript
-- 📫 My personal blog address is https://www.yueluo.club
+- 📫 My blog address is https://www.yueluo.club
