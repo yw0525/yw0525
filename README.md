@@ -3,4 +3,4 @@
 - 🌱 I've been studying Javascript
 - 📫 My blog address is https://www.yueluo.club
 
-https://activity-graph.herokuapp.com/graph?username={yw0525}
+![](https://activity-graph.herokuapp.com/graph?username={yw0525})
