@@ -15,4 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.yueluo.club/api/feed"
+          max_post_count: 6
           
