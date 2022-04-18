@@ -16,3 +16,6 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**This week I spent my time on**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
