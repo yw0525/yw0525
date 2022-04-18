@@ -21,6 +21,10 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
+From: 11 April 2022 - To: 18 April 2022
+
+Total Time: 5 hrs 4 mins
+
 TypeScript      1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   19.66 %
 Vue.js          1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
 JSON            58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
