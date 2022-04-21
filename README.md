@@ -21,12 +21,14 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2022 - To: 19 April 2022
+From: 13 April 2022 - To: 20 April 2022
 
-Total Time: 12 hrs 36 mins
+Total Time: 18 hrs 55 mins
 
-TypeScript      5 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   40.16 %
-Other           1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+TypeScript      8 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   40.27 %
+JavaScript      2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+JSON            2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Other           1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
 ```
 
 <!--END_SECTION:waka-->
