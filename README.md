@@ -8,12 +8,12 @@ This is the place where I opensource stuff and break things :rofl:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP 大文件传输](https://www.yueluo.club/detail?articleId=6267f78665e52c4388402ee8)
 - [静态资源处理](https://www.yueluo.club/detail?articleId=62669c9d65e52c43884025cd)
 - [双引擎架构](https://www.yueluo.club/detail?articleId=6265e18f65e52c438840182a)
 - [HTTP 缓存控制](https://www.yueluo.club/detail?articleId=6265508d65e52c4388401470)
 - [静态资源处理](https://www.yueluo.club/detail?articleId=6261e65b65e52c4388400428)
 - [TLS1.3 特性解析](https://www.yueluo.club/detail?articleId=62601f89ae42297e8e4c6bea)
-- [Lint 工具链配置](https://www.yueluo.club/detail?articleId=625f3517f6c4b04261d39e97)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**This week I spent my time on**
