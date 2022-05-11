@@ -8,12 +8,12 @@ This is the place where I opensource stuff and break things :rofl:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [浏览器的导航过程](https://www.yueluo.club/detail?articleId=627bc2b565e52c4388409d16)
 - [宏任务与微任务](https://www.yueluo.club/detail?articleId=627a71c365e52c4388409519)
 - [现代浏览器渲染流程](https://www.yueluo.club/detail?articleId=6279166465e52c4388408c2f)
 - [浏览器的多进程架构](https://www.yueluo.club/detail?articleId=62785d2a65e52c43884088ce)
 - [Jest 进阶用法](https://www.yueluo.club/detail?articleId=6277b0dd65e52c43884084dc)
 - [Jest 基础用法](https://www.yueluo.club/detail?articleId=6275b1f565e52c4388407b8e)
-- [HTTP Cookie 机制](https://www.yueluo.club/detail?articleId=62727f6365e52c4388406c73)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**This week I spent my time on**
