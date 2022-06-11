@@ -8,12 +8,12 @@ This is the place where I opensource stuff and break things :rofl:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [资源优先级](https://www.yueluo.club/detail?articleId=62a452e18e159c5c8f5e318c)
 - [Express 项目改造](https://www.yueluo.club/detail?articleId=62a3f37f8e159c5c8f5e2d97)
 - [JS 奇技淫巧（二）](https://www.yueluo.club/detail?articleId=62a0440f8e159c5c8f5e13af)
 - [编译工具、代码检查](https://www.yueluo.club/detail?articleId=629e0ebb1b72002733d9ffbf)
 - [JS 奇技淫巧（一）](https://www.yueluo.club/detail?articleId=629db9041b72002733d9fd22)
 - [tsconfig.json 详解](https://www.yueluo.club/detail?articleId=629b08811b72002733d9ecfb)
-- [命名空间、声明文件](https://www.yueluo.club/detail?articleId=6298268b1b72002733d9dc73)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**This week I spent my time on**
