@@ -8,12 +8,12 @@ This is the place where I opensource stuff and break things :rofl:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [作用域链和闭包](https://www.yueluo.club/detail?articleId=62d6b0b9397c3e0980cd47e7)
 - [块级作用域](https://www.yueluo.club/detail?articleId=62d562b4397c3e0980cd3e9c)
 - [调用栈](https://www.yueluo.club/detail?articleId=62d42236397c3e0980cd378b)
 - [同构渲染](https://www.yueluo.club/detail?articleId=62d37c13397c3e0980cd321f)
 - [变量提升](https://www.yueluo.club/detail?articleId=62d1631f397c3e0980cd25dd)
 - [编译优化](https://www.yueluo.club/detail?articleId=62d0ab22397c3e0980cd2090)
-- [0.1 + 0.2 != 0.3](https://www.yueluo.club/detail?articleId=62cffdbe397c3e0980cd1cd6)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**This week I spent my time on**
