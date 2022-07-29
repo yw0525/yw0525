@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 👀 &nbsp;I’m interested in Front End
-- 🌱 &nbsp;I’m currently learning Javascript, TypeScript
+- 🌱 &nbsp;I’m currently learning JavaScript, TypeScript
 - 📫 &nbsp;My blog address is https://www.yueluo.club
 
 📕 &nbsp;**Latest Blog Posts**
