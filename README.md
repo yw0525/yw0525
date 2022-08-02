@@ -8,12 +8,12 @@ This is the place where I opensource stuff and break things :rofl:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Promise 原理及实现](https://www.yueluo.club/detail?articleId=62e8649b397c3e0980cdd53b)
 - [LeetCode 75 - 1](https://www.yueluo.club/detail?articleId=62e71116397c3e0980cdcaf9)
 - [内建组件和模块](https://www.yueluo.club/detail?articleId=62deab0d397c3e0980cd8c29)
 - [异步组件与函数式组件](https://www.yueluo.club/detail?articleId=62dbe5ec397c3e0980cd78f0)
 - [JavaScript 内存机制](https://www.yueluo.club/detail?articleId=62daaf81397c3e0980cd6c7a)
 - [组件的实现原理](https://www.yueluo.club/detail?articleId=62d96506397c3e0980cd6397)
-- [this](https://www.yueluo.club/detail?articleId=62d7faa4397c3e0980cd534a)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**This week I spent my time on**
